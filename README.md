@@ -1,4 +1,3 @@
-# aws-cloud-practitioner-labs
 # AWS Cloud Practitioner Hands-On Labs
 
 ## Sobre o projeto
