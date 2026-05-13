@@ -105,7 +105,7 @@ aws-cloud-practitioner-labs/
 
 # Autor
 
-Lucas
+Lucas Mello
 
 Analista de Suporte Pleno Nível 2
 Estudando Cloud Computing, Infraestrutura e Arquitetura AWS.
