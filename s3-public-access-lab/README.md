@@ -111,7 +111,7 @@ O laboratório validou com sucesso:
 
 # Autor
 
-Lucas
+Lucas Mello
 
 Analista de Suporte Pleno Nível 2
 Estudando AWS Cloud Computing e Infraestrutura Cloud.
