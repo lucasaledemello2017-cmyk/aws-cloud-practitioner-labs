@@ -19,7 +19,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Redes e VPC | 0% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
-| Monitoramento | 25% |
+| Monitoramento | 60% |
 | Containers e Serverless | 0% |
 
 ---
