@@ -194,7 +194,13 @@ aws-cloud-practitioner-labs/
 │
 ├── s3-versioning-replication-lab/
 │
-└── s3-lifecycle-policy-lab/
+├── s3-lifecycle-policy-lab/
+│
+├── s3-encryption-lab/
+│
+├── s3-storage-gateway-lab/
+│
+└── snow-family-conceptual-lab/
 ```
 
 ---
