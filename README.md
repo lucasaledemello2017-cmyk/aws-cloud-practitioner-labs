@@ -13,7 +13,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Área | Progresso |
 |---|---|
 | Fundamentos Cloud | 100% |
-| Amazon S3 | 90% |
+| Amazon S3 | 100% |
 | IAM | 0% |
 | EC2 | 0% |
 | Redes e VPC | 0% |
@@ -79,9 +79,9 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [x] Lifecycle Policies
 - [x] Glacier Transition
 - [x] Cross-Region Replication (CRR)
-- [ ] Criptografia S3
-- [ ] Storage Gateway
-- [ ] AWS Snow Family
+- [x] Criptografia S3
+- [x] Storage Gateway
+- [x] AWS Snow Family
 
 ---
 
