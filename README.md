@@ -19,7 +19,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Redes e VPC | 0% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
-| Monitoramento | 0% |
+| Monitoramento | 60% |
 | Containers e Serverless | 0% |
 
 ---
@@ -149,8 +149,9 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 ## Monitoramento e Custos
 
 - [ ] CloudWatch
-- [ ] Billing Alerts
-- [ ] AWS Budgets
+- [x] AWS Billing and Cost Management
+- [x] AWS Budgets
+- [x] Billing Alerts
 - [ ] Trusted Advisor
 
 ---
@@ -200,7 +201,10 @@ aws-cloud-practitioner-labs/
 │
 ├── s3-storage-gateway-lab/
 │
-└── snow-family-conceptual-lab/
+├── snow-family-conceptual-lab/
+│
+└── aws-budget-billing-monitoring-lab//
+
 ```
 
 ---
@@ -216,6 +220,7 @@ aws-cloud-practitioner-labs/
 | S3 Encryption Lab | ✅ |
 | S3 Storage Gateway Conceptual Lab | ✅ |
 | AWS Snow Family Conceptual Lab | ✅ |
+| AWS Budget and Billing Monitoring Lab | ✅ |
 
 ---
 
