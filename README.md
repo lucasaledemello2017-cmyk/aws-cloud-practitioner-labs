@@ -213,6 +213,9 @@ aws-cloud-practitioner-labs/
 | S3 Static Website Hosting | ✅ |
 | S3 Versioning and Replication Lab | ✅ |
 | S3 Lifecycle Policy Lab | ✅ |
+| S3 Encryption Lab | ✅ |
+| S3 Storage Gateway Conceptual Lab | ✅ |
+| AWS Snow Family Conceptual Lab | ✅ |
 
 ---
 
