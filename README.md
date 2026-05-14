@@ -15,7 +15,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
 | IAM | 0% |
-| EC2 | 35% |
+| EC2 | 85% |
 | Redes e VPC | 0% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
@@ -57,7 +57,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 
 - [x] Criação de Instâncias
 - [x] Tipos de EC2
-- [ ] Modelos de Preço
+- [x] Modelos de Preço
 - [x] Security Groups
 - [x] Key Pairs
 - [ ] Elastic IP
