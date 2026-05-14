@@ -15,7 +15,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
 | IAM | 0% |
-| EC2 | 0% |
+| EC2 | 35% |
 | Redes e VPC | 0% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
@@ -55,14 +55,14 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 
 ## Amazon EC2
 
-- [ ] Criação de Instâncias
-- [ ] Tipos de EC2
+- [x] Criação de Instâncias
+- [x] Tipos de EC2
 - [ ] Modelos de Preço
-- [ ] Security Groups
-- [ ] Key Pairs
+- [x] Security Groups
+- [x] Key Pairs
 - [ ] Elastic IP
-- [ ] Status Checks
-- [ ] SSH Access
+- [x] Status Checks
+- [x] SSH Access
 
 ---
 
@@ -179,6 +179,10 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - Linux
 - AWS CLI
 - Git Version Control
+- Amazon EBS
+- Amazon VPC
+- Amazon Linux 2023
+- EC2 Instance Connect
 
 ---
 
@@ -203,7 +207,9 @@ aws-cloud-practitioner-labs/
 │
 ├── snow-family-conceptual-lab/
 │
-└── aws-budget-billing-monitoring-lab//
+├── aws-budget-billing-monitoring-lab/
+│
+└── ec2-linux-web-server-lab/
 
 ```
 
@@ -221,6 +227,7 @@ aws-cloud-practitioner-labs/
 | S3 Storage Gateway Conceptual Lab | ✅ |
 | AWS Snow Family Conceptual Lab | ✅ |
 | AWS Budget and Billing Monitoring Lab | ✅ |
+| AWS EC2 Linux Web Server Lab | ✅ |
 
 ---
 
@@ -230,7 +237,7 @@ aws-cloud-practitioner-labs/
 - IAM Policy Lab
 - IAM MFA Lab
 - AWS CLI Lab
-- EC2 Web Server Lab
+- Elastic IP Lab
 - EBS Snapshot Lab
 - Auto Scaling Lab
 - VPC Lab
