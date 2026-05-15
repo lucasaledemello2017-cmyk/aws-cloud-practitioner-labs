@@ -26,7 +26,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
-| Monitoramento | 60% |
+| Monitoramento | 75% |
 | Containers e Serverless | 0% |
 
 ---
@@ -159,9 +159,12 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 ## Monitoramento e Custos
 
 - [x] CloudWatch
+- [x] CloudWatch Alarms
+- [x] Amazon SNS
 - [x] AWS Billing and Cost Management
 - [x] AWS Budgets
 - [x] Billing Alerts
+- [x] Cost Monitoring
 - [ ] Trusted Advisor
 
 ---
@@ -183,6 +186,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - Amazon VPC
 - AWS IAM
 - AWS CloudWatch
+- Amazon SNS
 - AWS Route53
 - Amazon EBS
 - Amazon Linux 2023
@@ -202,6 +206,7 @@ aws-cloud-practitioner-labs/
 │
 ├── README.md
 │
+├── aws-cloudwatch-billing-alarm-lab/
 ├── aws-budget-billing-monitoring-lab/
 ├── ec2-linux-web-server-lab/
 ├── ec2-security-groups-lab/
@@ -228,6 +233,7 @@ aws-cloud-practitioner-labs/
 | S3 Storage Gateway Conceptual Lab | ✅ |
 | AWS Snow Family Conceptual Lab | ✅ |
 | AWS Budget and Billing Monitoring Lab | ✅ |
+| AWS CloudWatch Billing Alarm Lab | ✅ |
 | AWS EC2 Linux Web Server Lab | ✅ |
 | AWS EC2 Security Groups Lab | ✅ |
 
