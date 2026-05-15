@@ -21,7 +21,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 |---|---|
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
-| IAM | 70% |
+| IAM | 80% |
 | EC2 | 90% |
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
@@ -57,7 +57,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [x] Password Policies
 - [ ] Credential Reports
 - [ ] Access Advisor
-- [ ] AWS CLI
+- [x] AWS CLI
 - [ ] Access Keys e SDK
 
 ---
@@ -213,8 +213,9 @@ aws-cloud-practitioner-labs/
 │
 ├── README.md
 │
-├── aws-cloudwatch-billing-alarm-lab/
+├── aws-billing-alarm-lab/
 ├── aws-budget-billing-monitoring-lab/
+├── aws-cli-iam-lab/
 ├── aws-organizations-lab/
 ├── ec2-linux-web-server-lab/
 ├── ec2-security-groups-lab/
@@ -253,16 +254,14 @@ aws-cloud-practitioner-labs/
 | IAM AWS MFA Security Lab | ✅ |
 | IAM AWS Identity Center Lab | ✅ |
 | AWS IAM Password Policy Lab | ✅ |
+| AWS CLI IAM Lab | ✅ |
 
 
 ---
 
 # Próximos laboratórios planejados
 
-- IAM Custom Policy Lab
-- IAM MFA Lab
 - IAM Roles Lab
-- AWS CLI Lab
 - Elastic IP Lab
 - EBS Snapshot Lab
 - Auto Scaling Lab
