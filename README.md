@@ -21,7 +21,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 |---|---|
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
-| IAM | 0% |
+| IAM | 35% |
 | EC2 | 90% |
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
@@ -45,9 +45,11 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 
 ## IAM e Segurança
 
-- [ ] IAM Users
-- [ ] IAM Groups
-- [ ] IAM Policies
+- [x] IAM Users
+- [x] IAM Groups
+- [x] AWS Managed Policies
+- [x] Permission Validation
+- [x] Access Control
 - [ ] IAM Roles
 - [ ] MFA
 - [ ] IAM Identity Center
@@ -210,6 +212,7 @@ aws-cloud-practitioner-labs/
 ├── aws-budget-billing-monitoring-lab/
 ├── ec2-linux-web-server-lab/
 ├── ec2-security-groups-lab/
+├── iam-groups-permissions-lab/
 ├── s3-encryption-lab/
 ├── s3-lifecycle-policy-lab/
 ├── s3-public-access-lab/
@@ -236,14 +239,15 @@ aws-cloud-practitioner-labs/
 | AWS CloudWatch Billing Alarm Lab | ✅ |
 | AWS EC2 Linux Web Server Lab | ✅ |
 | AWS EC2 Security Groups Lab | ✅ |
+| IAM Groups and Permission Management Lab | ✅ |
 
 ---
 
 # Próximos laboratórios planejados
 
-- IAM User and Group Lab
-- IAM Policy Lab
+- IAM Custom Policy Lab
 - IAM MFA Lab
+- IAM Roles Lab
 - AWS CLI Lab
 - Elastic IP Lab
 - EBS Snapshot Lab
