@@ -21,7 +21,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 |---|---|
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
-| IAM | 65% |
+| IAM | 70% |
 | EC2 | 90% |
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
@@ -54,7 +54,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [x] MFA
 - [x] IAM Identity Center
 - [x] AWS Organizations
-- [ ] Password Policies
+- [x] Password Policies
 - [ ] Credential Reports
 - [ ] Access Advisor
 - [ ] AWS CLI
@@ -221,6 +221,7 @@ aws-cloud-practitioner-labs/
 ├── iam-groups-permissions-lab/
 ├── iam-identity-center-lab/
 ├── iam-mfa-security-lab/
+├── iam-password-policy-lab/
 ├── s3-encryption-lab/
 ├── s3-lifecycle-policy-lab/
 ├── s3-public-access-lab/
@@ -251,6 +252,7 @@ aws-cloud-practitioner-labs/
 | IAM Groups and Permission Management Lab | ✅ |
 | IAM AWS MFA Security Lab | ✅ |
 | IAM AWS Identity Center Lab | ✅ |
+| AWS IAM Password Policy Lab | ✅ |
 
 
 ---
