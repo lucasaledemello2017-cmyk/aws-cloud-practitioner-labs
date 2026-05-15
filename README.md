@@ -21,7 +21,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 |---|---|
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
-| IAM | 80% |
+| IAM | 85% |
 | EC2 | 90% |
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
@@ -58,7 +58,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [ ] Credential Reports
 - [ ] Access Advisor
 - [x] AWS CLI
-- [ ] Access Keys e SDK
+- [x] Access Keys e SDK
 
 ---
 
@@ -219,6 +219,7 @@ aws-cloud-practitioner-labs/
 ├── aws-organizations-lab/
 ├── ec2-linux-web-server-lab/
 ├── ec2-security-groups-lab/
+├── iam-access-keys-sdk-lab/
 ├── iam-groups-permissions-lab/
 ├── iam-identity-center-lab/
 ├── iam-mfa-security-lab/
@@ -255,6 +256,7 @@ aws-cloud-practitioner-labs/
 | IAM AWS Identity Center Lab | ✅ |
 | AWS IAM Password Policy Lab | ✅ |
 | AWS CLI IAM Lab | ✅ |
+| AWS IAM Access Keys and SDK Lab | ✅ |
 
 
 ---
