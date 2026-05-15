@@ -21,7 +21,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 |---|---|
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
-| IAM | 35% |
+| IAM | 50% |
 | EC2 | 90% |
 | Redes e VPC | 15% |
 | Banco de Dados | 0% |
@@ -51,7 +51,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [x] Permission Validation
 - [x] Access Control
 - [ ] IAM Roles
-- [ ] MFA
+- [x] MFA
 - [ ] IAM Identity Center
 - [ ] AWS Organizations
 - [ ] Password Policies
@@ -183,21 +183,26 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 # Tecnologias e serviços utilizados
 
 - Amazon Web Services (AWS)
+- AWS IAM
+- AWS MFA
 - Amazon EC2
 - Amazon S3
 - Amazon VPC
-- AWS IAM
-- AWS CloudWatch
 - Amazon SNS
-- AWS Route53
+- AWS CloudWatch
+- AWS Billing and Cost Management
+- AWS Budgets
+- AWS Managed Policies
 - Amazon EBS
+- AWS Route53
+- AWS Storage Gateway
+- AWS Snow Family
 - Amazon Linux 2023
 - EC2 Instance Connect
 - AWS CLI
 - Linux
 - GitHub
 - Git Version Control
-- HTML5
 
 ---
 
@@ -213,6 +218,7 @@ aws-cloud-practitioner-labs/
 ├── ec2-linux-web-server-lab/
 ├── ec2-security-groups-lab/
 ├── iam-groups-permissions-lab/
+├── iam-mfa-security-lab/
 ├── s3-encryption-lab/
 ├── s3-lifecycle-policy-lab/
 ├── s3-public-access-lab/
@@ -240,6 +246,7 @@ aws-cloud-practitioner-labs/
 | AWS EC2 Linux Web Server Lab | ✅ |
 | AWS EC2 Security Groups Lab | ✅ |
 | IAM Groups and Permission Management Lab | ✅ |
+| IAM AWS MFA Security Lab | ✅ |
 
 ---
 
