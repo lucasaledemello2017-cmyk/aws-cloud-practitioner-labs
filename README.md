@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner Hands-On Labs
+# AWS Cloud Computing Hands-On Labs
 
 ## Sobre o projeto
 
