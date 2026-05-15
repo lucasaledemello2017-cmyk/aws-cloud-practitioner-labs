@@ -4,7 +4,14 @@
 
 Repositório dedicado aos meus estudos práticos em AWS Cloud Computing com foco na certificação AWS Certified Cloud Practitioner (CLF-C02).
 
-Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Services para desenvolvimento de conhecimentos em Cloud Computing, Infraestrutura e Arquitetura de Soluções.
+Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Services para desenvolvimento de conhecimentos em:
+
+- Cloud Computing
+- Infraestrutura
+- Redes
+- Segurança
+- Monitoramento
+- Arquitetura de Soluções AWS
 
 ---
 
@@ -15,8 +22,8 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 | Fundamentos Cloud | 100% |
 | Amazon S3 | 100% |
 | IAM | 0% |
-| EC2 | 85% |
-| Redes e VPC | 0% |
+| EC2 | 90% |
+| Redes e VPC | 15% |
 | Banco de Dados | 0% |
 | CloudFront e CDN | 0% |
 | Monitoramento | 60% |
@@ -61,7 +68,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 - [x] Security Groups
 - [x] Key Pairs
 - [ ] Elastic IP
-- [x] Status Checks
+- [ ] Status Checks
 - [x] SSH Access
 
 ---
@@ -115,6 +122,9 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 
 ## Redes e VPC
 
+- [x] Security Groups
+- [x] ICMP Communication
+- [x] EC2 Internal Connectivity
 - [ ] VPC
 - [ ] ACL
 - [ ] VPC Peering
@@ -148,7 +158,7 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 
 ## Monitoramento e Custos
 
-- [ ] CloudWatch
+- [x] CloudWatch
 - [x] AWS Billing and Cost Management
 - [x] AWS Budgets
 - [x] Billing Alerts
@@ -168,49 +178,40 @@ Este projeto reúne laboratórios hands-on utilizando serviços da Amazon Web Se
 # Tecnologias e serviços utilizados
 
 - Amazon Web Services (AWS)
+- Amazon EC2
 - Amazon S3
+- Amazon VPC
 - AWS IAM
-- AWS EC2
-- AWS CloudFront
 - AWS CloudWatch
 - AWS Route53
-- GitHub
-- HTML5
-- Linux
-- AWS CLI
-- Git Version Control
 - Amazon EBS
-- Amazon VPC
 - Amazon Linux 2023
 - EC2 Instance Connect
+- AWS CLI
+- Linux
+- GitHub
+- Git Version Control
+- HTML5
 
 ---
 
 # Estrutura do repositório
 
-```txt
+```text
 aws-cloud-practitioner-labs/
 │
 ├── README.md
 │
-├── s3-public-access-lab/
-│
-├── s3-static-website-hosting/
-│
-├── s3-versioning-replication-lab/
-│
-├── s3-lifecycle-policy-lab/
-│
-├── s3-encryption-lab/
-│
-├── s3-storage-gateway-lab/
-│
-├── snow-family-conceptual-lab/
-│
 ├── aws-budget-billing-monitoring-lab/
-│
-└── ec2-linux-web-server-lab/
-
+├── ec2-linux-web-server-lab/
+├── ec2-security-groups-lab/
+├── s3-encryption-lab/
+├── s3-lifecycle-policy-lab/
+├── s3-public-access-lab/
+├── s3-static-website-hosting/
+├── s3-storage-gateway-lab/
+├── s3-versioning-replication-lab/
+└── snow-family-conceptual-lab/
 ```
 
 ---
@@ -228,6 +229,7 @@ aws-cloud-practitioner-labs/
 | AWS Snow Family Conceptual Lab | ✅ |
 | AWS Budget and Billing Monitoring Lab | ✅ |
 | AWS EC2 Linux Web Server Lab | ✅ |
+| AWS EC2 Security Groups Lab | ✅ |
 
 ---
 
@@ -257,8 +259,14 @@ Desenvolver conhecimentos sólidos em:
 - Escalabilidade
 - Monitoramento
 - Automação
+- Redes e Segurança
 
-com foco em evolução profissional para áreas de Cloud, Infraestrutura e Arquitetura AWS.
+com foco em evolução profissional para áreas de:
+
+- Cloud Computing
+- Infraestrutura
+- DevOps
+- Arquitetura AWS
 
 ---
 
@@ -276,7 +284,13 @@ AWS Solutions Architect Associate
 
 # Autor
 
-Lucas Mello
+## Lucas Mello
 
-Analista de Suporte Pleno Nível 2  
-Estudando Cloud Computing, Infraestrutura e Arquitetura AWS.
+Analista de Suporte Pleno Nível 2
+
+Estudando:
+- Cloud Computing
+- Infraestrutura
+- Redes
+- Segurança
+- Arquitetura AWS
